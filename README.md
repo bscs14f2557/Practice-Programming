@@ -1,2 +1,2 @@
-# Practice-Programming
-Practice problems via c++ to increase the grip and to learn.
+# Practice-coding
+Practice problems to increase the grip and to learn coding
