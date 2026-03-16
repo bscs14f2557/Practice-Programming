@@ -2,9 +2,13 @@
 using namespace std;
 int main()
 {
-	int a=6; b=5;
+	int num1, num2;
 	int sum;
-	sum = a+b;
+	cout<<"Enter first number : ";
+	cin>>num1;
+	cout<<"Enter second number : ";
+	cin>>num2;
+	sum = num1+num2;
 	cout<<"Sum of given numbers is : "<<sum<<endl;
 	return 0; 
 }
